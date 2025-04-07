@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "SistemaBiblioteca.Controllers.BookController",
+    "Method": "AddBook",
+    "RelativePath": "api/Book/addBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "book",
+        "Type": "SistemaBiblioteca.Models.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaBiblioteca.Controllers.BookController",
+    "Method": "GetBooks",
+    "RelativePath": "api/Book/getBook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaBiblioteca.Controllers.BookController",
+    "Method": "LoanBook",
+    "RelativePath": "api/Book/loanBook/{isbn}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaBiblioteca.Controllers.BookController",
+    "Method": "ReturnBook",
+    "RelativePath": "api/Book/returnBook/{isbn}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

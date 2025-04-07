@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\martin.martinez\\documents\\martin\\orden\\personal\\universidad\\estructuradatos\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\martin.martinez\\documents\\martin\\orden\\personal\\universidad\\estructuradatos\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\services\\libraryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\martin.martinez\\documents\\martin\\orden\\personal\\universidad\\estructuradatos\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\martin.martinez\\documents\\martin\\orden\\personal\\universidad\\estructuradatos\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\martin.martinez\\documents\\martin\\orden\\personal\\universidad\\estructuradatos\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|c:\\users\\martin.martinez\\documents\\martin\\orden\\personal\\universidad\\estructuradatos\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca\\sistemabiblioteca.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FBB87FDE-7383-4F42-94C0-53C10BCDF85F}|SistemaBiblioteca\\SistemaBiblioteca.csproj|solutionrelative:sistemabiblioteca\\sistemabiblioteca.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 574,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryServices.cs",
+              "DocumentMoniker": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Services\\LibraryServices.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Services\\LibraryServices.cs",
+              "ToolTip": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Services\\LibraryServices.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Services\\LibraryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:49:19.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Models\\User.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:49:01.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Models\\Book.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:48:54.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Controllers\\BookController.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:47:40.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemaBiblioteca.http",
+              "DocumentMoniker": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.http",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\SistemaBiblioteca.http",
+              "ToolTip": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.http",
+              "RelativeToolTip": "SistemaBiblioteca\\SistemaBiblioteca.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T23:46:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\martin.martinez\\Documents\\Martin\\Orden\\Personal\\Universidad\\EstructuraDatos\\SistemaBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca\\Program.cs",
+              "RelativeToolTip": "SistemaBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:46:08.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 920,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
